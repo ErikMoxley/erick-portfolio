@@ -57,6 +57,21 @@
     .main-title {
       text-align: center;
     }
+    h1 {
+      font-size: 5em;
+    }
+    .subheading {
+      font-size: 1.20rem;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .my-auto {
+      max-width: 100%;
+    }
+    .project-gif {
+      margin-left: -36px
+    }
   }
 
   .content-list {
@@ -76,4 +91,8 @@
 
   .live-source {
     padding-left: 16px;
+  }
+
+  .logo-top {
+    width: 70px;
   }
