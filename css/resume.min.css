@@ -70,7 +70,7 @@
       max-width: 100%;
     }
     .project-gif {
-      margin-left: -36px
+      max-width: 100%;
     }
   }
 
@@ -85,7 +85,7 @@
   }
 
   .project-gif {
-    width: 500px;
+    width: 550px;
     height: 350px;
   }
 
