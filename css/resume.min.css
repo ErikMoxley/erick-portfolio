@@ -20,8 +20,8 @@
 
   @media only screen and (max-width: 767px) {
     .first {
-        -ms-flex-order: -1;
-        order: -1;
+      -ms-flex-order: -1;
+      order: -1;
     }
     .transitioned-text {
       text-align: center;
@@ -41,6 +41,10 @@
   @media only screen and (max-width: 1500px) {
     .my-auto {
       max-width: 85%;
+    }
+    .project-gif {
+      max-width: 115%;
+      padding-left: 0!important;
     }
   }
 
@@ -63,13 +67,14 @@
     .subheading {
       font-size: 1.20rem;
     }
+    .project-gif {
+      max-width: 100%;
+      padding-left: 0!important;
+    }
   }
 
   @media only screen and (max-width: 600px) {
     .my-auto {
-      max-width: 100%;
-    }
-    .project-gif {
       max-width: 100%;
     }
   }
@@ -85,8 +90,9 @@
   }
 
   .project-gif {
-    width: 550px;
-    height: 350px;
+    width: 90%;
+    height: auto;
+    padding-left: 50px;
   }
 
   .live-source {
