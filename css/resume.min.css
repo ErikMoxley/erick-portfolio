@@ -45,6 +45,7 @@
     .project-gif {
       max-width: 115%;
       padding-left: 0!important;
+      height: 450px!important;
     }
   }
 
@@ -70,6 +71,7 @@
     .project-gif {
       max-width: 100%;
       padding-left: 0!important;
+      height: 300px!important;
     }
   }
 
@@ -91,7 +93,7 @@
 
   .project-gif {
     width: 90%;
-    height: auto;
+    height: 600px;
     padding-left: 50px;
   }
 
