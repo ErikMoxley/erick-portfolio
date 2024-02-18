@@ -1,3 +1,3 @@
-## Erik Moxley
+## Eric Moxley
 Just a simple portfolio page
-URL: https://www.erickongkaew.com/
+URL: https://www.erikmoxley.com/
